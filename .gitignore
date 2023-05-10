@@ -1,0 +1,9 @@
+/.idea/
+/venv/
+/cmake-build-debug/
+
+/dat/
+*.dat
+
+/img/
+*.jpg
